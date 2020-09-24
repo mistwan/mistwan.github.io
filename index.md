@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/mistwan/mistwan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mistwan/mistwan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Catalog 
+### [A bigger dose](2020-09/A bigger dose.md)
+### [A charged relationship](2020-09/A charged relationship.md)
+### [A GE whodunnit](2020-09/A GE whodunnit.md)
+### [A question of judgment](2020-09/A question of judgment.md)
+### [America’s Mittelstand](2020-09/America’s Mittelstand.md)
+### [Another look in the toy box](2020-09/Another look in the toy box.md)
+### [Beginner’s luck](2020-09/Beginner’s luck.md)
+### [Bips and bytes](2020-09/Bips and bytes.md)
+### [Bit-lit](2020-09/Bit-lit.md)
+### [Capital pains](2020-09/Capital pains.md)
+### [Conforming to norms](2020-09/Conforming to norms.md)
+### [Dawn of an era](2020-09/Dawn of an era.md)
+### [Digital divide](2020-09/Digital divide.md)
+### [Endgame](2020-09/Endgame.md)
+### [Free money](2020-09/Free money.md)
+### [From rustbelt to brainbelt](2020-09/From rustbelt to brainbelt.md)
+### [How to cope with middle age](2020-09/How to cope with middle age.md)
+### [Million-mile car batteries are coming](2020-09/Million-mile car batteries are coming.md)
+### [No more quarter](2020-09/No more quarter.md)
+### [Parkinson’s law updated](2020-09/Parkinson’s law updated.md)
+### [Partying like it’s 1999](2020-09/Partying like it’s 1999.md)
+### [Ready, cane, fire](2020-09/Ready, cane, fire.md)
+### [Shining brightly](2020-09/Shining brightly.md)
+### [Snake in the grass](2020-09/Snake in the grass.md)
+### [Sums of all fears](2020-09/Sums of all fears.md)
+### [Superjumbo problems](2020-09/Superjumbo problems.md)
+### [Terminal conditions](2020-09/Terminal conditions.md)
+### [The absent student](2020-09/The absent student.md)
+### [The debt toll](2020-09/The debt toll.md)
+### [The Replacements](2020-09/The Replacements.md)
+### [The wannabe Alibaba](2020-09/The wannabe Alibaba.md)
+### [Through the mousehole](2020-09/Through the mousehole.md)
+### [Trial by fire](2020-09/Trial by fire.md)
+### [Unproductivity puzzle](2020-09/Unproductivity puzzle.md)
+### [When bits bite](2020-09/When bits bite.md)
+### [Xi’s new economy](2020-09/Xi’s new economy.md)
