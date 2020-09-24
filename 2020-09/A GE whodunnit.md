@@ -2,6 +2,7 @@
 ### <font color='red'>熊彼特</font>
 ## A GE whodunnit 
 ## 谁杀死了GE 
+
 **The downfall of America’s industrial giant is a cautionary tale for all big firms** 
 
 **美国工业巨头的衰落为所有大企业撰写了一则警世故事** 
